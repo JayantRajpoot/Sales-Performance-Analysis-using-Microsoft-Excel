@@ -391,7 +391,7 @@ The dataset was cleaned, validated, analyzed, and visualized using Pivot Tables,
 
 ## Author
 
-**Jayant Rajput**
+**Jayant Rajpoot**
 
 - GitHub: https://github.com/JayantRajpoot
 - LinkedIn: https://www.linkedin.com/in/jayantrajpoot/
