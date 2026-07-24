@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis using Microsoft Excel
+# 📊 Retail Sales Analytics Dashboard (Microsoft Excel)
 
 ## Objective
 
